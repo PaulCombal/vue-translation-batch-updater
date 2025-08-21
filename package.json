@@ -1,6 +1,6 @@
 {
   "name": "vue-translation-batch-updater",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Update translations in batch using AI with a single command.",
   "type": "module",
   "main": "index.js",
