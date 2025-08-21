@@ -1,0 +1,5 @@
+*.vue
+.env
+node_modules
+*.gz
+.gitignore
