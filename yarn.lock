@@ -932,22 +932,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"transboss@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "transboss@workspace:."
-  dependencies:
-    "@google/generative-ai": "npm:^0.24.1"
-    "@stylistic/eslint-plugin": "npm:^5.2.3"
-    "@vue/compiler-sfc": "npm:^3.5.18"
-    commander: "npm:^14.0.0"
-    dotenv: "npm:^17.2.1"
-    eslint: "npm:^9.33.0"
-    yaml: "npm:^2.8.1"
-  bin:
-    tt: index.js
-  languageName: unknown
-  linkType: soft
-
 "type-check@npm:^0.4.0, type-check@npm:~0.4.0":
   version: 0.4.0
   resolution: "type-check@npm:0.4.0"
@@ -965,6 +949,22 @@ __metadata:
   checksum: 10c0/4ef57b45aa820d7ac6496e9208559986c665e49447cb072744c13b66925a362d96dd5a46c4530a6b8e203e5db5fe849369444440cb22ecfc26c679359e5dfa3c
   languageName: node
   linkType: hard
+
+"vue-translation-batch-updater@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "vue-translation-batch-updater@workspace:."
+  dependencies:
+    "@google/generative-ai": "npm:^0.24.1"
+    "@stylistic/eslint-plugin": "npm:^5.2.3"
+    "@vue/compiler-sfc": "npm:^3.5.18"
+    commander: "npm:^14.0.0"
+    dotenv: "npm:^17.2.1"
+    eslint: "npm:^9.33.0"
+    yaml: "npm:^2.8.1"
+  bin:
+    tt: index.js
+  languageName: unknown
+  linkType: soft
 
 "which@npm:^2.0.1":
   version: 2.0.2

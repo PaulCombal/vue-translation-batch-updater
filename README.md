@@ -15,14 +15,12 @@ Add it with one command:
 
 ```bash
 yarn exec tt -f --auto-translate=en.bye *.vue
-npm exec tt -f --auto-translate=en.bye *.vue
 ```
 
 Help:
 
 ```bash
 yarn exec tt --help
-npm exec tt --help
 ```
 
 ### Setup
