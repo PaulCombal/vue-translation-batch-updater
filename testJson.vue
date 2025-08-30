@@ -1,4 +1,6 @@
-<template><div></div></template>
+<template>
+  <div>My component</div>
+</template>
 
 <i18n>
 {
@@ -10,7 +12,7 @@
     }
   },
   "fr": {
-    "hello": "bjr",
+    "hello": "bonjour",
     "vue": "vite"
   }
 }
